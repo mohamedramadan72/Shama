@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/Shama/static/css/main.0bc68e88.css",
+    "main.js": "/Shama/static/js/main.9f9b3dd1.js",
+    "static/media/Component 3.png": "/Shama/static/media/Component 3.c4aa105c2880da1b81f3.png",
+    "static/media/fa-solid-900.ttf": "/Shama/static/media/fa-solid-900.45a265d0f07b31cde85f.ttf",
+    "static/media/N.png": "/Shama/static/media/N.ab7543cabb2d5239797f.png",
+    "static/media/E.png": "/Shama/static/media/E.df2b03aff9130477220c.png",
+    "static/media/fa-brands-400.ttf": "/Shama/static/media/fa-brands-400.6205fd00fb1b573e9f0f.ttf",
+    "static/media/R.png": "/Shama/static/media/R.087adc4261f4a707b36e.png",
+    "static/media/fa-solid-900.woff2": "/Shama/static/media/fa-solid-900.fb8184add5a3101ad0a3.woff2",
+    "static/media/fa-brands-400.woff2": "/Shama/static/media/fa-brands-400.8d3cabfc66809162fb4d.woff2",
+    "static/media/H.png": "/Shama/static/media/H.b1e1d7a1f930c4bca270.png",
+    "static/media/G.png": "/Shama/static/media/G.a56ac6a71ca8ed154c00.png",
+    "static/media/fa-regular-400.ttf": "/Shama/static/media/fa-regular-400.adc51aab4d771ab65f81.ttf",
+    "static/media/F.png": "/Shama/static/media/F.694b23568223f1abc0bf.png",
+    "static/media/instagram.png": "/Shama/static/media/instagram.79535458a8a6d88f81d4.png",
+    "static/media/fa-regular-400.woff2": "/Shama/static/media/fa-regular-400.e931bc0d14f5bbb1da22.woff2",
+    "static/media/google.png": "/Shama/static/media/google.e12914ad8afda3f6f2e8.png",
+    "static/media/C.png": "/Shama/static/media/C.713bacc8c1ec36fa7119.png",
+    "static/media/google-play.png": "/Shama/static/media/google-play.ba004008e7d0a357146a.png",
+    "static/media/whatsapp.png": "/Shama/static/media/whatsapp.1dd8ca2765f1f177ab22.png",
+    "static/media/logo.png": "/Shama/static/media/logo.f7bb1a45b644bff59cb3.png",
+    "static/media/facebook.png": "/Shama/static/media/facebook.49e67d43221b6bb1aa86.png",
+    "static/media/V.png": "/Shama/static/media/V.257843bf06c27a77fd0f.png",
+    "static/media/youtube.png": "/Shama/static/media/youtube.b4f2b64af1b614ce26dc.png",
+    "static/media/linkedin.png": "/Shama/static/media/linkedin.6892b3ae328c7a1e055f.png",
+    "static/media/fa-v4compatibility.ttf": "/Shama/static/media/fa-v4compatibility.2eb7b3ef25042305f3ff.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Shama/static/media/fa-v4compatibility.b3049b13a93f07e026fc.woff2",
+    "index.html": "/Shama/index.html",
+    "main.0bc68e88.css.map": "/Shama/static/css/main.0bc68e88.css.map",
+    "main.9f9b3dd1.js.map": "/Shama/static/js/main.9f9b3dd1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0bc68e88.css",
+    "static/js/main.9f9b3dd1.js"
+  ]
+}
