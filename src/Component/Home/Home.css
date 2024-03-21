@@ -1,0 +1,94 @@
+#home{
+    background-image: url(./imges/Component\ 3.png);
+    background-position: center center;
+    background-size: cover;
+    height: 100vh;
+}
+#home button {
+    background-color: #4D8BBB;
+}
+.item h1::after{
+    content: "Nursing Care Providers ";
+
+}
+.item h1::after {
+    content: "Reviews for| ";
+    animation-name: move;
+    animation-duration: 7s;
+    animation-iteration-count: infinite;
+    color: #4D8BBB;
+    opacity: 1;
+}
+@keyframes move {
+    0% {
+        content: "Midical";
+    }
+
+    7% {
+        content: "Midical Home ";
+    }
+    14% {
+        content: "Midical Home Care";
+    }
+    21% {
+        content: "Midical Home Care";
+    }
+    28% {
+        content: "Midical Home ";
+    }
+    35% {
+        content: "Midical";
+    }
+    42% {
+        content: "";
+    }
+    49% {
+        content: "Stay";
+    }
+    56% {
+        content: "Stay At";
+    }
+    63% {
+        content: "Stay At Home";
+    }
+    70% {
+        content: "Stay At Home";
+    }
+    77% {
+        content: "Stay At";
+    }
+    84% {
+        content: "Stay";
+    }
+    91% {
+        content: "";
+    }
+    100% {
+        content: "";
+    }
+
+}
+.CategoriesItem:hover{
+    cursor: pointer;
+}
+.CategoriesItem h4{
+    color: #4D8BBB;
+}
+#MostPopularCaregiver .btn1 {
+    background-color: #4D8BBB;
+}
+#Morehealthcare h4{
+    color: #4D8BBB;
+}
+#Morehealthcare .btn1{
+    background-color: #4D8BBB;
+}
+#Blog{
+    background-image: url(./imges/R.png);
+    background-position: center center;
+    background-size: cover;
+    height: 70vh;
+}  
+#Download .DownloagItem{
+    background-color: #4D8BBB;
+}

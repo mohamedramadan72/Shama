@@ -1,0 +1,18 @@
+#payment img,i{
+    cursor: pointer;
+}
+#payment h2 {
+    color: #4D8BBB;
+}
+#payment h3{
+    color: #4D8BBB;
+
+}
+#payment .PaymentBtn{
+    background-color: #4D8BBB;
+    border: none;
+    color: #fff;
+}
+#payment .paymenticon{
+    color: #4D8BBB;
+}
